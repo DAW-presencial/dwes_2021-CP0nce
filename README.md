@@ -1,4 +1,4 @@
-# :wave: The Basics of GitHub 
+# This repo is for making tests before integrate laravel
 
 ## 🤓 Course overview and learning outcomes 
 
