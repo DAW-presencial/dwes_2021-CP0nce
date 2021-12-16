@@ -1,0 +1,4 @@
+Actividad agenda con conexión a  base de datos.
+
+He tenido que cambiar de MySQL a Postgres, y como me daba errores por todas partes,
+me he visto obligado a simplificar el trabajo
